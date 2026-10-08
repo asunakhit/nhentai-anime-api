@@ -15,20 +15,6 @@ Aniraku is open source. Voluntary support helps fund **hosting, releases, and op
 > This branch uses a **publicly hosted Anilist offline database** for metadata Helping with **no rate limits**.
 > - **Ok the rest-api Web-GUI is being disabled to make the server lightweight for Streaming and Episode focused Scraping**.Enjoy
 > - **Demo:** [nhentai](https://nhentai.cc)
-## Sponsor☕💘
-
-<a href="https://patreon.com/ShoIslam"><img src="https://user-images.githubusercontent.com/61944859/180249027-678b01b8-c336-451e-b147-6d84a5b9d0e7.png" width="250"/></a>
-## Binance Pay
-
-Send directly via Binance Pay to UID:
-
-```
-1098400042
-```
-
-Open Binance > Pay > Enter UID > Send. No network fees.
-
-Read the full [Support Guide](./SUPPORT.md).
 
 ## What this service does
 
