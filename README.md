@@ -1,6 +1,6 @@
 <div align="center">
 
-# Aniraku Backend
+# Nhentai Anime Api Backend
 
 Go service layer for the Aniraku web and Android clients.
 
