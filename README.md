@@ -4,14 +4,6 @@
 
 Go service layer for the Aniraku web and Android clients.
 
-<a href="https://github.com/Aniraku/Aniraku">Client</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/Aniraku/Aniraku-App">Android client</a>
-&nbsp; · &nbsp;
-<a href="CONTRIBUTING.md">Contribute</a>
-&nbsp; · &nbsp;
-<a href="LICENSE">License</a>
-
 </div>
 
 ---
@@ -22,8 +14,7 @@ Aniraku is open source. Voluntary support helps fund **hosting, releases, and op
 > [!IMPORTANT]
 > This branch uses a **publicly hosted Anilist offline database** for metadata Helping with **no rate limits**.
 > - **Ok the rest-api Web-GUI is being disabled to make the server lightweight for Streaming and Episode focused Scraping**.Enjoy
-> - **Anilist Mirror Graphql With Same Anilist Endpoint:** [Mirror](https://graphql.aniraku.tech)
-> - **GitHub Repository:** [Shoislam0311/anilist-offline-db](https://github.com/Shoislam0311/anilist-offline-db)
+> - **Demo:** [nhentai](https://nhentai.cc)
 ## Sponsor☕💘
 
 <a href="https://patreon.com/ShoIslam"><img src="https://user-images.githubusercontent.com/61944859/180249027-678b01b8-c336-451e-b147-6d84a5b9d0e7.png" width="250"/></a>
@@ -53,7 +44,7 @@ Episode titles/thumbnails are resolved via **AniZip + TMDB** (AniBridge verified
 ## Request flow
 
 ```text
-Aniraku web / Android client
+Nhentai web / Android client
               │
               ▼
         Chi HTTP router
