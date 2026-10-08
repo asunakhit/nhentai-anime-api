@@ -77,6 +77,11 @@ All versioned routes live under `/api/v1`. The legacy `/ani/v1/epsrc` route is k
 | TMDB resolver | `internal/tmdb/` (`resolver.go` AniBridge+Fribb, `merge.go`) |
 | API contract | [`docs/openapi.yaml`](docs/openapi.yaml) |
 | Architecture deep-dive | [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md) |
+[animeforums](https://animeforums.net/profile/78341-asunakhit/)
+[producthunt](https://www.producthunt.com/@asunakhit)
+[issuu](https://issuu.com/asuna-hentai)
+[pinterest](https://www.pinterest.com/nhentaiasuna/)
+[tumblr](https://www.tumblr.com/nhentaicc)
 
 ## Configuration
 
